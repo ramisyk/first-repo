@@ -4,8 +4,9 @@
 - [Github](https://github.com/ramisyk)
 - [HackerRank](https://www.hackerrank.com/ramisyk?hr_r=1)
 - [StackOverFlow](https://stackoverflow.com/users/14502282/ramisyk)
-
+*** 
 ## Docker :
+![https://docs.docker.com/engine/images/architecture.svg](https://docs.docker.com/engine/images/architecture.svg)
 Geliştiricinin bilgisayarında yazılan projenin başka bilgisayarda çalışması için gerekli kurulumların yapılmasının gerekmesi programların çalışmalarında sorun çıkarabilir. 
 Docker container teknolojisi ile uygulama oluşturma, çalıştırma ve değitmayı amaçlamıştır.
 konteynerlar yalnızca işletim sistemini sanallaştırarak kendisine ait bir sanal işletim sistemi gereksinimi duymadan fiziksel bir sunucu veya bilgisayar üzerinde uygulamanın çalışmasını sağlar.
@@ -26,8 +27,8 @@ Bulut uygulamaları - hızlı microservis uygulamalarında performanslı
 
 **Docker Image :** Uygulamanın çalışması için gerekli kütüphaneler, ortam değişkenleri ve konfigürasyon dosyalarını içinde saklayan, çalıştırılan paketlerdir. Containerlerin ayağa kalkması için gereklidir. 
 
-**Docker Registry :** Docker Hub da imaj dosyalarını alıp kullanabildiğimiz, yeni imaj dosyaları yükleyip konfigüre edebildiğimiz imajların bulunduğu kayıt alanıdır. Public olarak bulunur. 
-
+**Docker Registry :** Docker Hub da imaj dosyalarını alıp kullanabildiğimiz, yeni imaj dosyaları yükleyip konfigüre edebildiğimiz imajların bulunduğu kayıt alanıdır. Public olarak bulunur [1]. 
+***
 ## .NET Araştırmaları :
 ![https://docs.microsoft.com/tr-tr/dotnet/standard/library-guidance/media/cross-platform-targeting/platforms-netstandard.png](https://docs.microsoft.com/tr-tr/dotnet/standard/library-guidance/media/cross-platform-targeting/platforms-netstandard.png)
 
@@ -47,7 +48,6 @@ Bulut uygulamaları - hızlı microservis uygulamalarında performanslı
 - Varsayılan olarak framework-dependent executables (çerçeveye bağlı yürütülebilir dosyaları) oluşturur. Eski hali: self-contained deployments
 - Katmanlı derleme ile çalışma zamanının daha iyi performans elde edilmiştir.
 
-
 ### .NET 5.0:
 - .Net Core ile platformlar arası bir geçişe başlayan Microsoft .Net 5 ile yeniden bir araya geliyor.
 - Xamarin, Unity, ML.Net gibi bütün frameworkler bir arada toplanacak.
@@ -59,6 +59,7 @@ Bulut uygulamaları - hızlı microservis uygulamalarında performanslı
 **.NET 5 den sonra kalkacaklar:** 
 - ASP.NET Web Forms yerini Blazor'a bırakıyor.
 - Farklı makineler üzerindeki uygulamaların iletişimini sağlayan Windows Communication Foundation yapısı yerine gRPC kullanılabilecektir.
+***
 
 ### Azure Servisleri:
 Azure bir çok alanda bulun tabanlı hizmetler vermektedir.
@@ -72,7 +73,7 @@ Azure bir çok alanda bulun tabanlı hizmetler vermektedir.
 - **Windows Sanal Masaüstü**
 - **Yapay Zeka ve Makine Öğrenimi:** Birçok işlem için kod yazma gereksinimi olmadan yapay zeka ve makine öğrenmesi ekletileri ile uygulamalara destek sunar.
 - **Yönetim ve İdare:** Bulut kaynaklarının yönetimini ve uyumluluğunu basitleştirme, otomatikleştirme ve iyileştirme işlemlerini gerçekleştirir.
-
+***
 ### Takip Ettiklerim
 - [Bora Kaşmer](http://www.borakasmer.com/)
 - [Muhammed Hilmi Koca - Medium](https://medium.com/@mhkoca)
@@ -98,3 +99,6 @@ Azure bir çok alanda bulun tabanlı hizmetler vermektedir.
 
 ### Kodun Kalitesi
 - 
+
+### Kaynaklar
+- [1]: https://docs.docker.com/get-started/overview/
