@@ -26,23 +26,15 @@ konteynerlar yalnızca işletim sistemini sanallaştırarak kendisine ait bir sa
 Ölçeklendirme işlemleri için hızlı cevap verir
 Bulut uygulamaları - hızlı microservis uygulamalarında performanslı 
 
-Virtual Machine
+|Virtual Machine                             |Docker                                         |
+|--------------------------------------------|-----------------------------------------------|
+|Donanım düzeyinde sanallaştırma             |Sadece işletim sistemi düzeyinde sanallaştırma |
+|Her makine için farklı işletim sistemi      |Ana makinenin işletim sisteminin paylaşımı     |
+|Yüksek boyut                                |Düşük boyut                                    |
+|Yavaş çalışma                               |Hızlı çalışma                                  |
+|Yüksek kaynak kullanımı                     |Düşük kaynak kullanımı                         |
+|Donanımın izin verdiği kadar makine çalışır |Bir çok konteyner çalışabilir                  |
 
-Donanım düzeyinde sanallaştırma
-Her makine için farklı işletim sistemi
-Yüksek boyut
-Yavaş çalışma
-Yüksek kaynak kullanımı
-Donanımın izin verdiği kadar makine çalışır
-
-Docker
-
-Sadece işletim sistemi düzeyinde sanallaştırma
-Ana makinenin işletim sisteminin paylaşımı
-Düşük boyut
-Hızlı çalışma
-Düşük kaynak kullanımı
-Bir çok konteyner çalışabilir
 
 Container : Yazılım paketleme teknolojisi. VM in üzerine geliştirilmiştir. Çekirdek fonksiyonları kullanır işletim sistemi katmanı içermez ve daha az kaynak tüketir. 
 
@@ -101,6 +93,6 @@ Ek ⇒
 
 ### İş ilanı
 
-[Sınırsız Yetenek](https://kariyerim.turkcell.com.tr/sinirsiz-yetenek/)
+[Türkcell Sınırsız Yetenek](https://kariyerim.turkcell.com.tr/sinirsiz-yetenek/)
 
-[Genç Yetenek](https://kariyerim.turkcell.com.tr/genc-yetenek)
+[Türkcell Genç Yetenek](https://kariyerim.turkcell.com.tr/genc-yetenek)
