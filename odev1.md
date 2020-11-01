@@ -27,7 +27,7 @@ Bulut uygulamaları - hızlı microservis uygulamalarında performanslı
 
 **Docker Image :** Uygulamanın çalışması için gerekli kütüphaneler, ortam değişkenleri ve konfigürasyon dosyalarını içinde saklayan, çalıştırılan paketlerdir. Containerlerin ayağa kalkması için gereklidir. 
 
-**Docker Registry :** Docker Hub da imaj dosyalarını alıp kullanabildiğimiz, yeni imaj dosyaları yükleyip konfigüre edebildiğimiz imajların bulunduğu kayıt alanıdır. Public olarak bulunur [1]. 
+**Docker Registry :** Docker Hub da imaj dosyalarını alıp kullanabildiğimiz, yeni imaj dosyaları yükleyip konfigüre edebildiğimiz imajların bulunduğu kayıt alanıdır. Public olarak bulunur. 
 ***
 ## .NET Araştırmaları :
 ![https://docs.microsoft.com/tr-tr/dotnet/standard/library-guidance/media/cross-platform-targeting/platforms-netstandard.png](https://docs.microsoft.com/tr-tr/dotnet/standard/library-guidance/media/cross-platform-targeting/platforms-netstandard.png)
@@ -96,9 +96,3 @@ Azure bir çok alanda bulun tabanlı hizmetler vermektedir.
 ### İş ilanı
 - [Türkcell Sınırsız Yetenek](https://kariyerim.turkcell.com.tr/sinirsiz-yetenek/)
 - [Türkcell Genç Yetenek](https://kariyerim.turkcell.com.tr/genc-yetenek)
-
-### Kodun Kalitesi
-- 
-
-### Kaynaklar
-- [1]: https://docs.docker.com/get-started/overview/
