@@ -2,7 +2,7 @@
 
 ## Hesaplarım :
 - [Github](https://github.com/ramisyk)
-- [HackerRank](https://www.hackerrank.com/ramisyk?hr_r=1 target="_blank")
+- [HackerRank](https://www.hackerrank.com/ramisyk?hr_r=1 "target='_blank'")
 - [StackOverFlow](https://stackoverflow.com/users/14502282/ramisyk)
 *** 
 ## Docker :
